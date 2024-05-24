@@ -1,5 +1,5 @@
-![Simulator Screenshot - iphone - 2024-05-24 at 13 27 28](https://github.com/sruthianugraha23/NurtureHeal-Project/assets/167844526/74334dd4-7010-4fe7-bc48-f916bd1570f4)
+![Simulator Screenshot - iphone - 2024-05-24 at 14 31 11](https://github.com/sruthianugraha23/NurtureHeal-Project/assets/167844526/cf97553b-76f8-45bb-a284-9958fffcc3e0)
 
-![Simulator Screenshot - iphone - 2024-05-24 at 13 27 33](https://github.com/sruthianugraha23/NurtureHeal-Project/assets/167844526/5eabac70-952e-404d-bc6d-9ed4af13bd3b)
+![Simulator Screenshot - iphone - 2024-05-24 at 14 31 19](https://github.com/sruthianugraha23/NurtureHeal-Project/assets/167844526/20859e57-6285-4c7e-9976-439ae3bf8521)
 
-![Simulator Screenshot - iphone - 2024-05-24 at 13 27 39](https://github.com/sruthianugraha23/NurtureHeal-Project/assets/167844526/2725d85d-6fbf-48c2-9fab-2a8db6b2a6a6)
+![Uploading Simulator Screenshot - iphone - 2024-05-24 at 14.31.27.png…]()
